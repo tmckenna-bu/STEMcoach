@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 import json
 from langchain.vectorstores import FAISS
 from langchain.embeddings import OpenAIEmbeddings
