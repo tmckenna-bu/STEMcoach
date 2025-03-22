@@ -1,5 +1,7 @@
-openai
 langchain
-faiss-cpu
+langchain-community
+openai
 pandas
+faiss-cpu
 streamlit
+python-dotenv
